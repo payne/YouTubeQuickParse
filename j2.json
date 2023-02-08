@@ -1,0 +1,78 @@
+[
+{
+  "title": "Rule #1 - Utilize the 5 SOLID principles",
+  "videoId": "tx3lTeIaLsY"
+},
+{
+  "title": "Rule #3 - Use meaningful class names",
+  "videoId": "NB_cZE6HRLo"
+},
+{
+  "title": "Rule #4 - Use meaningful method names",
+  "videoId": "f8ObPAc2d0c"
+},
+{
+  "title": "Private video",
+  "videoId": "acPxpRGDoDY"
+},
+{
+  "title": "Rule #6 - A class should do only one thing",
+  "videoId": "Ef7w8UVMzW4"
+},
+{
+  "title": "Rule #7 - A method should do only one thing",
+  "videoId": "hu9MVFQoHp4"
+},
+{
+  "title": "Rule #10 - No hard coded values",
+  "videoId": "gzmIFqWW9LQ"
+},
+{
+  "title": "Rule #12 - Avoid unnecessary comments",
+  "videoId": "rcuc0SKBhSU"
+},
+{
+  "title": "Private video",
+  "videoId": "B2WMlSM2cUg"
+},
+{
+  "title": "Rule #14 - Methods should have few parameters",
+  "videoId": "61l3CYOKgCY"
+},
+{
+  "title": "Rule #15 - Avoid long if statements",
+  "videoId": "DPZOcgmmyPE"
+},
+{
+  "title": "Rule #16 - Avoid the switch statement",
+  "videoId": "vQSg1jMCMxg"
+},
+{
+  "title": "Private video",
+  "videoId": "yDDwWNOLGsg"
+},
+{
+  "title": "Rule #23 - Methods should never return null",
+  "videoId": "6ZspnrJIla0"
+},
+{
+  "title": "Rule #24 - Shared code ownership is the goal",
+  "videoId": "R5l8I_Mr2mc"
+},
+{
+  "title": "Private video",
+  "videoId": "wIMv2S1dZaw"
+},
+{
+  "title": "Private video",
+  "videoId": "8Yu080Gp2lE"
+},
+{
+  "title": "Rule #37 - Boolean parameters should not be passed to methods",
+  "videoId": "91RBUmbNL1U"
+},
+{
+  "title": "Private video",
+  "videoId": "Q-YLOh_LwnI"
+}
+]

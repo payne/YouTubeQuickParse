@@ -1,0 +1,670 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "0DTVEY1VWN01L2QiPhkPFjP-PfA",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mS0BJmfpFJnCMRlMCQ7s8cqzeOA",
+      "id": "UEw1bmtHcS1wOTh6TUtjQmUwR2dDdXI0QTVqTFMtTC1UXy4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2022-12-07T23:10:57Z",
+        "channelId": "UCQT3GwtAop6cnvTTTsKUUoQ",
+        "title": "Rule #1 - Utilize the 5 SOLID principles",
+        "description": "RULE DESCRIPTION: \n\nMemorize, have a working understanding and apply the 5 SOLID principles when writing code.  Single Responsibility Principle (SRP), Open Closed Principle (OCP), Liskov Substitution Principle (LSP), Interface Segregation Principle (ISP) and Dependency Inversion Principle (DIP)\n\nTIMESTAMP:\n\n0:14 Intro\n0:38 Single Responsibility Principle (bad example)\n0:52 Single Responsibility Principle (rule)\n1:05 Rule explained\n1:20 Single Responsibility Principle (good example)\n1:28 Open Closed Principle (bad example)\n2:09 Open Closed Principle (rule)\n2:21 Rule explained\n2:38 Open Closed Principle (good example)\n3:18 Liskov Substitution Principle (bad example)\n3:50 Liskov Substitution Principle (rule)\n4:05 Rule explained\n4:45 Liskov Substitution Principle (good example)\n5:16 Interface Segregation Principle (bad example)\n5:50 Interface Segregation Principle (rule)\n6:01 Rule explained\n6:08 Interface Segregation Principle (good example)\n6:36 Dependency Injection (bad example)\n7:04 Dependency Injection explained\n7:29 Dependency Injection (good example)\n7:33 Dependency Inversion Principle (bad example)\n7:57 Dependency Inversion Principle (rule)\n8:10 Rule explained\n8:26 Dependency Inversion Principle (good example)\n9:15 I challenge you to utilize the 5 SOLID principles\n\nCOACH JOE MISSION:\n\nThis video series will cover all Coach Joe rules.  Lesson tutorials are broken down into visual descriptions along with good and bad code examples.  Following these preferred standard coding rules will help write cleaner more maintainable code, test driven development (TDD) and unit testing.  Many rules apply to other languages like C#, Python, Typescript and Kotlin.  Below are a list of Coach Joe rules included in this series that will help with your learning and education process.\n\nCOACH JOE RULES:\n\nRule #1: Utilize the 5 SOLID principles\nRule #2: Utilize the 3 laws of TDD\nRule #3: Use meaningful class names\nRule #4: Use meaningful method names\nRule #5: Use meaningful variable names\nRule #6: A class should do only one thing\nRule #7: A method should do only one thing\nRule #8: Unit tests should always make at least 1 assert\nRule #10: No hard coded values\nRule #11: No duplicate code\nRule #12: Avoid unnecessary comments\nRule #13: The class should contain a small number of methods and lines of code\nRule #14: Methods should have few if any parameters\nRule #15: Avoid long if statements\nRule #16: Avoid the switch statement\nRule #19: Run all unit tests frequently\nRule #20: Objects must be easy to create\nRule #21: No type or scope definitions in variable names\nRule #22: Methods should have very few lines of code\nRule #23: Methods should never return null\nRule #24: Shared code ownership is the goal\nRule #25: Avoid nested if/else blocks\nRule #26: Code should be formatted and readable\nRule #29: Unit tests should never be marked with an Ignore attribute\nRule #30: Do not test several method calls in a single unit test\nRule #31: Avoid generating technical debt\nRule #32: Use the proper for loop\nRule #34: Understand the difference between an object and a data structure\nRule #35: Try for 100% code coverage\nRule #37: Boolean parameters should not be passed to methods\nRule #39: Bad code is difficult to test and maintain\nRule #40: Test code you write for happy and unhappy paths\nRule #41: Errors should be caught, not hidden\nRule #42: Do not test infrastructure, frameworks or libraries\nRule #43: Null parameters should not be passed to methods\n\nAmazing pictures and artwork provided by:\nhttps://www.pexels.com/photo/1529405/\nhttps://www.pexels.com/photo/white-painted-wall-1939485/\nhttps://www.freepik.com/free-vector/empty-white-marker-presentation-board-floor-stand_17303452.htm\nhttps://unsplash.com/@michaeldam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@christianbuehner?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/woman-in-red-hat-and-black-outfit-sitting-on-the-bed-while-holding-a-crystal-ball-6806745/\nhttps://www.freepik.com/free-vector/blank-empty-speech-bubbles-vector-illustration_10603801.htm\nhttps://www.pexels.com/photo/a-wacky-face-of-a-woman-8727466/\nhttps://www.pexels.com/photo/a-man-in-a-white-sweater-posing-8217516/\nhttps://www.freepik.com/free-vector/supreme-court-concept-illustration_28900641.htm\nhttps://www.pexels.com/photo/close-up-photo-of-shocked-face-of-woman-3978572/\nhttps://unsplash.com/@seteph?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.freepik.com/free-vector/worker-with-doubts_834551.htm\nhttps://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/low-angle-photography-of-man-jumping-2923156/\nhttps://www.pexels.com/photo/person-rock-climbing-3077882/\nhttps://www.pexels.com/photo/ceu-12381015/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tx3lTeIaLsY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tx3lTeIaLsY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tx3lTeIaLsY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tx3lTeIaLsY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "10 Minutes with Coach Joe",
+        "playlistId": "PL5nkGq-p98zMKcBe0GgCur4A5jLS-L-T_",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tx3lTeIaLsY"
+        },
+        "videoOwnerChannelTitle": "10 Minutes with Coach Joe",
+        "videoOwnerChannelId": "UCQT3GwtAop6cnvTTTsKUUoQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IVH1-rsPCPuaZvYmA7vXR_Ff7CA",
+      "id": "UEw1bmtHcS1wOTh6TUtjQmUwR2dDdXI0QTVqTFMtTC1UXy44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2023-01-02T13:54:55Z",
+        "channelId": "UCQT3GwtAop6cnvTTTsKUUoQ",
+        "title": "Rule #3 - Use meaningful class names",
+        "description": "RULE DESCRIPTION:\n\nClass names should use a noun to represent its responsibility.  Class names should not be confusing, misleading or contain any acronyms.\n\nTIMESTAMP:\n\n0:13 Intro\n0:29 Naming standards\n1:51 Meaningful intent\n2:38 The perfect class name\n\nCOACH JOE MISSION:\n\nThis video series will cover all Coach Joe rules.  Lesson tutorials are broken down into visual descriptions along with good and bad code examples.  Following these preferred standard coding rules will help write cleaner more maintainable code, test driven development (TDD) and unit testing.  Many rules apply to other languages like C#, Python, Typescript and Kotlin.  Below are a list of Coach Joe rules included in this series that will help with your learning and education process.\n\nCOACH JOE RULES:\n\nRule #1: Utilize the 5 SOLID principles\nRule #2: Utilize the 3 laws of TDD\nRule #3: Use meaningful class names\nRule #4: Use meaningful method names\nRule #5: Use meaningful variable names\nRule #6: A class should do only one thing\nRule #7: A method should do only one thing\nRule #8: Unit tests should always make at least 1 assert\nRule #10: No hard coded values\nRule #11: No duplicate code\nRule #12: Avoid unnecessary comments\nRule #13: The class should contain a small number of methods and lines of code\nRule #14: Methods should have few if any parameters\nRule #15: Avoid long if statements\nRule #16: Avoid the switch statement\nRule #19: Run all unit tests frequently\nRule #20: Objects must be easy to create\nRule #21: No type or scope definitions in variable names\nRule #22: Methods should have very few lines of code\nRule #23: Methods should never return null\nRule #24: Shared code ownership is the goal\nRule #25: Avoid nested if/else blocks\nRule #26: Code should be formatted and readable\nRule #29: Unit tests should never be marked with an Ignore attribute\nRule #30: Do not test several method calls in a single unit test\nRule #31: Avoid generating technical debt\nRule #32: Use the proper for loop\nRule #34: Understand the difference between an object and a data structure\nRule #35: Try for 100% code coverage\nRule #37: Boolean parameters should not be passed to methods\nRule #39: Bad code is difficult to test and maintain\nRule #40: Test code you write for happy and unhappy paths\nRule #41: Errors should be caught, not hidden\nRule #42: Do not test infrastructure, frameworks or libraries\nRule #43: Null parameters should not be passed to methods\n\nAmazing pictures and artwork provided by:\nhttps://www.pexels.com/photo/blue-and-brown-milky-way-galaxy-2694037/\nhttps://www.freepik.com/free-vector/door-frame-wall-background_1134070.htm\nhttps://www.freepik.com/free-vector/blank-empty-speech-bubbles-vector-illustration_10603801.htm\nhttps://www.freepik.com/free-vector/boy-with-his-presentation-stage_6132394.htm\nhttps://www.freepik.com/free-vector/game-gift-boxes-with-bonus-gamer-rewards-set_35429277.htm\nhttps://www.freepik.com/free-vector/delicious-chocolate-bars-collection_2271722.htm\nhttps://www.freepik.com/vectors/girl-doodle\nhttps://www.pexels.com/photo/girl-scout-with-magnifying-glass-observe-tree-5036771/\nhttps://www.pexels.com/photo/photo-of-a-woman-holding-an-ipad-761993/\nhttps://www.pexels.com/photo/wall-yellow-chick-chicks-1751272/\nhttps://www.freepik.com/free-vector/minimal-white-gray-background-with-wavy-lines_8038875.htm\nhttps://www.freepik.com/free-vector/collection-tridimensional-geometric-shapes_5229800.htm\nhttps://unsplash.com/@awcreativeut?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/ja/@jasongoodman_youxventures?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/cheerful-young-bearded-man-in-cap-standing-near-brick-wall-3966736/\nhttps://www.pexels.com/photo/a-man-discussing-using-a-laptop-5583975/\nhttps://unsplash.com/@zacharytnelson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/curving-shaped-fragment-of-modern-building-7078717/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NB_cZE6HRLo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NB_cZE6HRLo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NB_cZE6HRLo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NB_cZE6HRLo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "10 Minutes with Coach Joe",
+        "playlistId": "PL5nkGq-p98zMKcBe0GgCur4A5jLS-L-T_",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NB_cZE6HRLo"
+        },
+        "videoOwnerChannelTitle": "10 Minutes with Coach Joe",
+        "videoOwnerChannelId": "UCQT3GwtAop6cnvTTTsKUUoQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uEp7WNxu8jBFfVM7mdW9Kj2Z5Ho",
+      "id": "UEw1bmtHcS1wOTh6TUtjQmUwR2dDdXI0QTVqTFMtTC1UXy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2022-12-26T23:42:30Z",
+        "channelId": "UCQT3GwtAop6cnvTTTsKUUoQ",
+        "title": "Rule #4 - Use meaningful method names",
+        "description": "RULE DESCRIPTION: \n\nMethod names should use a verb to describe the action being performed.  Ex. \"save\" is ok, \"saveEmployeeData\" is better.\n\nTIMESTAMP:\n\n0:13 Intro\n0:29 Naming standards\n1:46 Meaningful intent\n2:07 Bad example\n2:29 Good example\n3:11 The perfect method name\n\nCOACH JOE MISSION:\n\nThis video series will cover all Coach Joe rules.  Lesson tutorials are broken down into visual descriptions along with good and bad code examples.  Following these preferred standard coding rules will help write cleaner more maintainable code, test driven development (TDD) and unit testing.  Many rules apply to other languages like C#, Python, Typescript and Kotlin.  Below are a list of Coach Joe rules included in this series that will help with your learning and education process.\n\nCOACH JOE RULES:\n\nRule #1: Utilize the 5 SOLID principles\nRule #2: Utilize the 3 laws of TDD\nRule #3: Use meaningful class names\nRule #4: Use meaningful method names\nRule #5: Use meaningful variable names\nRule #6: A class should do only one thing\nRule #7: A method should do only one thing\nRule #8: Unit tests should always make at least 1 assert\nRule #10: No hard coded values\nRule #11: No duplicate code\nRule #12: Avoid unnecessary comments\nRule #13: The class should contain a small number of methods and lines of code\nRule #14: Methods should have few if any parameters\nRule #15: Avoid long if statements\nRule #16: Avoid the switch statement\nRule #19: Run all unit tests frequently\nRule #20: Objects must be easy to create\nRule #21: No type or scope definitions in variable names\nRule #22: Methods should have very few lines of code\nRule #23: Methods should never return null\nRule #24: Shared code ownership is the goal\nRule #25: Avoid nested if/else blocks\nRule #26: Code should be formatted and readable\nRule #29: Unit tests should never be marked with an Ignore attribute\nRule #30: Do not test several method calls in a single unit test\nRule #31: Avoid generating technical debt\nRule #32: Use the proper for loop\nRule #34: Understand the difference between an object and a data structure\nRule #35: Try for 100% code coverage\nRule #37: Boolean parameters should not be passed to methods\nRule #39: Bad code is difficult to test and maintain\nRule #40: Test code you write for happy and unhappy paths\nRule #41: Errors should be caught, not hidden\nRule #42: Do not test infrastructure, frameworks or libraries\nRule #43: Null parameters should not be passed to methods\n\nAmazing pictures and artwork provided by:\nhttps://www.freepik.com/free-vector/blank-empty-speech-bubbles-vector-illustration_10603801.htm\nhttps://www.freepik.com/free-vector/door-frame-wall-background_1134070.htm\nhttps://www.freepik.com/free-vector/boy-with-his-presentation-stage_6132394.htm\nhttps://unsplash.com/@tamtit24?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/man-standing-near-building-white-black-turtleneck-shirt-874158/\nhttps://www.pexels.com/photo/advertising-attractive-background-bag-2739937/\nhttps://www.pexels.com/photo/bearded-man-inspecting-the-wooden-shelf-8978602/\nhttps://www.pexels.com/photo/close-up-photo-of-blue-body-of-water-1435752/\nhttps://www.freepik.com/free-vector/collection-tridimensional-geometric-shapes_5229800.htm\nhttps://unsplash.com/@canweallgo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@icons8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@judmackrill?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@neonbrand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@windows?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/multi-cultural-people-3184419/\nhttps://unsplash.com/@patwhelen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f8ObPAc2d0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f8ObPAc2d0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f8ObPAc2d0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f8ObPAc2d0c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "10 Minutes with Coach Joe",
+        "playlistId": "PL5nkGq-p98zMKcBe0GgCur4A5jLS-L-T_",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f8ObPAc2d0c"
+        },
+        "videoOwnerChannelTitle": "10 Minutes with Coach Joe",
+        "videoOwnerChannelId": "UCQT3GwtAop6cnvTTTsKUUoQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-WUcABXeKg8pr1OBWQOA_CNBKtI",
+      "id": "UEw1bmtHcS1wOTh6TUtjQmUwR2dDdXI0QTVqTFMtTC1UXy41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2023-01-05T16:39:10Z",
+        "channelId": "UCQT3GwtAop6cnvTTTsKUUoQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "10 Minutes with Coach Joe",
+        "playlistId": "PL5nkGq-p98zMKcBe0GgCur4A5jLS-L-T_",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "acPxpRGDoDY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DXuLtoF0IP4gxKevlYFZx4T5kFg",
+      "id": "UEw1bmtHcS1wOTh6TUtjQmUwR2dDdXI0QTVqTFMtTC1UXy4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2023-01-10T13:26:25Z",
+        "channelId": "UCQT3GwtAop6cnvTTTsKUUoQ",
+        "title": "Rule #6 - A class should do only one thing",
+        "description": "RULE DESCRIPTION: \n\nA class should only perform one action.  If a class performs more than one action, this is known as a side effect and could be misleading to other developers.  Remember to follow the rules for the Single Responsibility Principle.\n\nTIMESTAMP:\n\n0:13 Intro\n0:36 The class (2 types)\n0:56 A class that does too much\n1:20 Solution options \n2:09 Many possible correct answers\n\nCOACH JOE MISSION:\n\nThis video series will cover all Coach Joe rules.  Lesson tutorials are broken down into visual descriptions along with good and bad code examples.  Following these preferred standard coding rules will help write cleaner more maintainable code, test driven development (TDD) and unit testing.  Many rules apply to other languages like C#, Python, Typescript and Kotlin.  Below are a list of Coach Joe rules included in this series that will help with your learning and education process.\n\nCOACH JOE RULES:\n\nRule #1: Utilize the 5 SOLID principles\nRule #2: Utilize the 3 laws of TDD\nRule #3: Use meaningful class names\nRule #4: Use meaningful method names\nRule #5: Use meaningful variable names\nRule #6: A class should do only one thing\nRule #7: A method should do only one thing\nRule #8: Unit tests should always make at least 1 assert\nRule #10: No hard coded values\nRule #11: No duplicate code\nRule #12: Avoid unnecessary comments\nRule #13: The class should contain a small number of methods and lines of code\nRule #14: Methods should have few if any parameters\nRule #15: Avoid long if statements\nRule #16: Avoid the switch statement\nRule #19: Run all unit tests frequently\nRule #20: Objects must be easy to create\nRule #21: No type or scope definitions in variable names\nRule #22: Methods should have very few lines of code\nRule #23: Methods should never return null\nRule #24: Shared code ownership is the goal\nRule #25: Avoid nested if/else blocks\nRule #26: Code should be formatted and readable\nRule #29: Unit tests should never be marked with an Ignore attribute\nRule #30: Do not test several method calls in a single unit test\nRule #31: Avoid generating technical debt\nRule #32: Use the proper for loop\nRule #34: Understand the difference between an object and a data structure\nRule #35: Try for 100% code coverage\nRule #37: Boolean parameters should not be passed to methods\nRule #39: Bad code is difficult to test and maintain\nRule #40: Test code you write for happy and unhappy paths\nRule #41: Errors should be caught, not hidden\nRule #42: Do not test infrastructure, frameworks or libraries\nRule #43: Null parameters should not be passed to methods\n\nAmazing pictures and artwork provided by:\nhttps://www.pexels.com/photo/art-lights-curve-pattern-6818037/\nhttps://www.freepik.com/free-vector/blank-empty-speech-bubbles-vector-illustration_10603801.htm\nhttps://www.pexels.com/photo/man-in-black-crew-neck-t-shirt-pointing-finger-4584388/\nhttps://www.pexels.com/photo/outdoorchallenge-blue-skies-blue-sky-canada-907283/\nhttps://www.freepik.com/free-vector/realistic-chalk-blackboard_19380853.htm\nhttps://www.stockvault.net/photo/182545/eureka-moment-woman-having-an-idea\nhttps://www.freepik.com/free-vector/hand-drawn-halloween-broom-doodle_31968632.htm\nhttps://www.freepik.com/free-vector/white-clouds-collection_1128248.htm\nhttps://www.freepik.com/free-photo/attractive-lady-bright-outfit-is-thinking-about-new-idea-woman-sweater-posing-thoughtfully-pink-background_12431209.htm#query=lady%20thinking&position=25&from_view=search&track=sph\nhttps://unsplash.com/@raymondo600?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.freepik.com/free-photo/colleagues-discussing-new-ideas-business-meeting_7838531.htm\nhttps://www.freepik.com/free-photo/co-workers-giving-great-feedback_2755596.htm\nhttps://www.freepik.com/vectors/fat-man\nhttps://unsplash.com/@saksham?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/football-stadium-61135/\nhttps://www.pexels.com/photo/ceu-12381015/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ef7w8UVMzW4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ef7w8UVMzW4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ef7w8UVMzW4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ef7w8UVMzW4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "10 Minutes with Coach Joe",
+        "playlistId": "PL5nkGq-p98zMKcBe0GgCur4A5jLS-L-T_",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ef7w8UVMzW4"
+        },
+        "videoOwnerChannelTitle": "10 Minutes with Coach Joe",
+        "videoOwnerChannelId": "UCQT3GwtAop6cnvTTTsKUUoQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lYCd5xlYA27Jwb7GQZTcR_UVC5Y",
+      "id": "UEw1bmtHcS1wOTh6TUtjQmUwR2dDdXI0QTVqTFMtTC1UXy43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2023-01-04T17:10:19Z",
+        "channelId": "UCQT3GwtAop6cnvTTTsKUUoQ",
+        "title": "Rule #7 - A method should do only one thing",
+        "description": "RULE DESCRIPTION: \n\nA method should only perform one action.  If a method performs more than one action, this is known as a side effect and could be misleading to other developers.  Remember to follow the rules for the Single Responsibility Principle.\n\nTIMESTAMP:\n\n0:14 Intro\n0:39 Common method types\n1:53 Bad example\n2:20 How to fix\n2:36 Solution using all the method types\n3:32 Many possible correct answers\n\nCOACH JOE MISSION:\n\nThis video series will cover all Coach Joe rules.  Lesson tutorials are broken down into visual descriptions along with good and bad code examples.  Following these preferred standard coding rules will help write cleaner more maintainable code, test driven development (TDD) and unit testing.  Many rules apply to other languages like C#, Python, Typescript and Kotlin.  Below are a list of Coach Joe rules included in this series that will help with your learning and education process.\n\nCOACH JOE RULES:\n\nRule #1: Utilize the 5 SOLID principles\nRule #2: Utilize the 3 laws of TDD\nRule #3: Use meaningful class names\nRule #4: Use meaningful method names\nRule #5: Use meaningful variable names\nRule #6: A class should do only one thing\nRule #7: A method should do only one thing\nRule #8: Unit tests should always make at least 1 assert\nRule #10: No hard coded values\nRule #11: No duplicate code\nRule #12: Avoid unnecessary comments\nRule #13: The class should contain a small number of methods and lines of code\nRule #14: Methods should have few if any parameters\nRule #15: Avoid long if statements\nRule #16: Avoid the switch statement\nRule #19: Run all unit tests frequently\nRule #20: Objects must be easy to create\nRule #21: No type or scope definitions in variable names\nRule #22: Methods should have very few lines of code\nRule #23: Methods should never return null\nRule #24: Shared code ownership is the goal\nRule #25: Avoid nested if/else blocks\nRule #26: Code should be formatted and readable\nRule #29: Unit tests should never be marked with an Ignore attribute\nRule #30: Do not test several method calls in a single unit test\nRule #31: Avoid generating technical debt\nRule #32: Use the proper for loop\nRule #34: Understand the difference between an object and a data structure\nRule #35: Try for 100% code coverage\nRule #37: Boolean parameters should not be passed to methods\nRule #39: Bad code is difficult to test and maintain\nRule #40: Test code you write for happy and unhappy paths\nRule #41: Errors should be caught, not hidden\nRule #42: Do not test infrastructure, frameworks or libraries\nRule #43: Null parameters should not be passed to methods\n\nAmazing pictures and artwork provided by:\nhttps://www.pexels.com/photo/light-painting-at-night-327509/\nhttps://www.freepik.com/free-vector/number_1347935.htm\nhttps://www.pexels.com/photo/man-working-with-printing-tools-using-magnifier-6621014/\nhttps://www.freepik.com/free-vector/blank-empty-speech-bubbles-vector-illustration_10603801.htm\nhttps://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@ryanmfranco?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.freepik.com/free-vector/scissors-silver-gold-metal-with-open-blades-top-view_12407797.htm\nhttps://www.freepik.com/free-vector/scissors-silver-gold-metal-with-open-blades-top-view_12407797.htm\nhttps://www.pexels.com/photo/a-person-writing-graphs-on-the-whiteboard-7989077/\nhttps://www.pexels.com/photo/man-catching-football-1349509/\nhttps://unsplash.com/@saksham?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.freepik.com/vectors/fat-man\nhttps://www.pexels.com/photo/curving-shaped-fragment-of-modern-building-7078717/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hu9MVFQoHp4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hu9MVFQoHp4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hu9MVFQoHp4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hu9MVFQoHp4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "10 Minutes with Coach Joe",
+        "playlistId": "PL5nkGq-p98zMKcBe0GgCur4A5jLS-L-T_",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hu9MVFQoHp4"
+        },
+        "videoOwnerChannelTitle": "10 Minutes with Coach Joe",
+        "videoOwnerChannelId": "UCQT3GwtAop6cnvTTTsKUUoQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GByd5TcJjECizzTZwxyhDzkMvWY",
+      "id": "UEw1bmtHcS1wOTh6TUtjQmUwR2dDdXI0QTVqTFMtTC1UXy45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2022-12-16T13:11:44Z",
+        "channelId": "UCQT3GwtAop6cnvTTTsKUUoQ",
+        "title": "Rule #10 - No hard coded values",
+        "description": "RULE DESCRIPTION: \n\nNo hard coded values like connection strings, paths and file name; assign these values  to a variable or constant.\n\nTIMESTAMP:\n\n0:13 Intro\n0:28 Definition of hard coded value\n0:50 Why are they bad?\n1:40 How to fix\n2:11 Are some hard coded values allowed?\n4:01 Sensitive data\n4:19 I challenge you to avoid hard coded values\n\nCOACH JOE MISSION:\n\nThis video series will cover all Coach Joe rules.  Lesson tutorials are broken down into visual descriptions along with good and bad code examples.  Following these preferred standard coding rules will help write cleaner more maintainable code, test driven development (TDD) and unit testing.  Many rules apply to other languages like C#, Python, Typescript and Kotlin.  Below are a list of Coach Joe rules included in this series that will help with your learning and education process.\n\nCOACH JOE RULES:\n\nRule #1: Utilize the 5 SOLID principles\nRule #2: Utilize the 3 laws of TDD\nRule #3: Use meaningful class names\nRule #4: Use meaningful method names\nRule #5: Use meaningful variable names\nRule #6: A class should do only one thing\nRule #7: A method should do only one thing\nRule #8: Unit tests should always make at least 1 assert\nRule #10: No hard coded values\nRule #11: No duplicate code\nRule #12: Avoid unnecessary comments\nRule #13: The class should contain a small number of methods and lines of code\nRule #14: Methods should have few if any parameters\nRule #15: Avoid long if statements\nRule #16: Avoid the switch statement\nRule #19: Run all unit tests frequently\nRule #20: Objects must be easy to create\nRule #21: No type or scope definitions in variable names\nRule #22: Methods should have very few lines of code\nRule #23: Methods should never return null\nRule #24: Shared code ownership is the goal\nRule #25: Avoid nested if/else blocks\nRule #26: Code should be formatted and readable\nRule #29: Unit tests should never be marked with an Ignore attribute\nRule #30: Do not test several method calls in a single unit test\nRule #31: Avoid generating technical debt\nRule #32: Use the proper for loop\nRule #34: Understand the difference between an object and a data structure\nRule #35: Try for 100% code coverage\nRule #37: Boolean parameters should not be passed to methods\nRule #39: Bad code is difficult to test and maintain\nRule #40: Test code you write for happy and unhappy paths\nRule #41: Errors should be caught, not hidden\nRule #42: Do not test infrastructure, frameworks or libraries\nRule #43: Null parameters should not be passed to methods\n\nAmazing pictures and artwork provided by:\nhttps://www.pexels.com/photo/photo-of-lightning-2409111/\nhttps://www.freepik.com/free-vector/realistic-chalk-blackboard_19380853.htm\nhttps://www.pexels.com/photo/concerned-black-woman-touching-face-in-contemplation-5700207/\nhttps://www.pexels.com/photo/a-man-with-a-hat-wearing-long-sleeve-shirt-and-shorts-exploring-with-binoculars-9143802/\nhttps://www.pexels.com/photo/woman-in-blue-and-white-striped-top-raising-her-left-hand-1462637/\nhttps://www.pexels.com/photo/photo-of-man-wearing-eyeglasses-3184611/\nhttps://www.freepik.com/free-vector/collection-tridimensional-geometric-shapes_5229800.htm\nhttps://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@jasongoodman_youxventures?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/modern-conference-room-with-tv-6794937/\nhttps://www.pexels.com/photo/meeting-room-interior-3747299/\nhttps://unsplash.com/@benwhitephotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/woman-in-blue-and-white-pinstripe-dress-shirt-wearing-eyeglasses-6665059/\nhttps://www.freepik.com/free-vector/boy-with-his-presentation-stage_6132394.htm\nhttps://unsplash.com/es/@dargonesti?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@johnmoeses?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/red-sand-50570/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gzmIFqWW9LQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gzmIFqWW9LQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gzmIFqWW9LQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gzmIFqWW9LQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "10 Minutes with Coach Joe",
+        "playlistId": "PL5nkGq-p98zMKcBe0GgCur4A5jLS-L-T_",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gzmIFqWW9LQ"
+        },
+        "videoOwnerChannelTitle": "10 Minutes with Coach Joe",
+        "videoOwnerChannelId": "UCQT3GwtAop6cnvTTTsKUUoQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "S6cUdo5Xutgp7qv3AQoajI49Yy8",
+      "id": "UEw1bmtHcS1wOTh6TUtjQmUwR2dDdXI0QTVqTFMtTC1UXy40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2023-01-22T16:42:52Z",
+        "channelId": "UCQT3GwtAop6cnvTTTsKUUoQ",
+        "title": "Rule #12 - Avoid unnecessary comments",
+        "description": "RULE DESCRIPTION: \n\nComments explaining the code is an indication of poor design (likely SRP or poor naming), consider refactoring.   Comments should not indicate who made a change.\n\nWhen comments are needed, visit: \nhttps://standards.mousepawmedia.com/en/latest/csi.html\n\nTIMESTAMP:\n\n0:14 Intro\n0:46 Helpful comments\n2:01 Required comments\n2:48 Comments about the past, present and future\n3:22 Commented out code\n4:36 Comment the intent\n5:16 I challenge you to avoid placing unnecessary comments in the code\n\nCOACH JOE MISSION:\n\nThis video series will cover all Coach Joe rules.  Lesson tutorials are broken down into visual descriptions along with good and bad code examples.  Following these preferred standard coding rules will help write cleaner more maintainable code, test driven development (TDD) and unit testing.  Many rules apply to other languages like C#, Python, Typescript and Kotlin.  Below are a list of Coach Joe rules included in this series that will help with your learning and education process.\n\nCOACH JOE RULES:\n\nRule #1: Utilize the 5 SOLID principles\nRule #2: Utilize the 3 laws of TDD\nRule #3: Use meaningful class names\nRule #4: Use meaningful method names\nRule #5: Use meaningful variable names\nRule #6: A class should do only one thing\nRule #7: A method should do only one thing\nRule #8: Unit tests should always make at least 1 assert\nRule #10: No hard coded values\nRule #11: No duplicate code\nRule #12: Avoid unnecessary comments\nRule #13: The class should contain a small number of methods and lines of code\nRule #14: Methods should have few if any parameters\nRule #15: Avoid long if statements\nRule #16: Avoid the switch statement\nRule #19: Run all unit tests frequently\nRule #20: Objects must be easy to create\nRule #21: No type or scope definitions in variable names\nRule #22: Methods should have very few lines of code\nRule #23: Methods should never return null\nRule #24: Shared code ownership is the goal\nRule #25: Avoid nested if/else blocks\nRule #26: Code should be formatted and readable\nRule #29: Unit tests should never be marked with an Ignore attribute\nRule #30: Do not test several method calls in a single unit test\nRule #31: Avoid generating technical debt\nRule #32: Use the proper for loop\nRule #34: Understand the difference between an object and a data structure\nRule #35: Try for 100% code coverage\nRule #37: Boolean parameters should not be passed to methods\nRule #39: Bad code is difficult to test and maintain\nRule #40: Test code you write for happy and unhappy paths\nRule #41: Errors should be caught, not hidden\nRule #42: Do not test infrastructure, frameworks or libraries\nRule #43: Null parameters should not be passed to methods\n\nAmazing pictures and artwork provided by:\nhttps://www.pexels.com/photo/blue-and-white-abstract-painting-2110951/\nhttps://www.freepik.com/free-vector/realistic-chalk-blackboard_19380853.htm\nhttps://www.freepik.com/free-vector/blank-empty-speech-bubbles-vector-illustration_10603801.htm\nhttps://www.freepik.com/free-photo/young-attractive-woman-with-thoughtful-expression-thinks-about-question-feels-doubt-raises-eyebrows-holds-chin_11426927.htm\nhttps://www.freepik.com/free-photo/hesitant-puzzled-handsome-guy-scratch-head-know-answer_9696573.htm\nhttps://www.freepik.com/free-photo/lifestyle-people-emotions-casual-concept-excited-smart-creative-asian-female-coworker-have-s_25643331.htm\nhttps://www.freepik.com/free-photo/pensive-unsure-thoughtful-african-american-man-touching-beard-frowning-looking-up_16069082.htm\nhttps://www.pexels.com/photo/man-in-blue-denim-jacket-holding-a-megaphone-5935755/\nhttps://unsplash.com/es/@lgnwvr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/uncertain-black-man-in-hoodie-in-studio-6974936/\nhttps://www.pexels.com/photo/person-in-front-of-computer-3184344/\nhttps://www.pexels.com/photo/advertising-attractive-background-bag-2739940/\nhttps://www.freepik.com/free-photo/happy-young-man-doing-okay-sign_998145.htm\nhttps://www.pexels.com/photo/a-group-of-people-planning-while-looking-at-the-laptop-7550298/\nhttps://www.freepik.com/free-vector/businessman-holding-thumb-finger-stopwatch_1311422.htm\nhttps://www.freepik.com/free-photo/image-hesitant-unshaven-european-man-with-thick-beard-holds-chin-purses-lips-with-clueless-expressions_10547297.htm\nhttps://www.freepik.com/free-photo/image-smiling-young-office-lady-asian-business-entrepreneur-pointing-fingers-left-showing-client_25643317.htm\nhttps://www.freepik.com/free-photo/image-thoughtful-smiling-woman-has-idea-scheming-planning-looking-aside-thinking-standing-office-white-blouse-against-studio-background_25643676.htm\nhttps://www.freepik.com/free-photo/image-confident-asian-woman-showing-thumb-up-approval-recommending-like-smth-good-standing-white-background_24030642.htm\nhttps://unsplash.com/es/@tateisimikito?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/pink-fabric-romance-texture-background-2318068/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rcuc0SKBhSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rcuc0SKBhSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rcuc0SKBhSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rcuc0SKBhSU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "10 Minutes with Coach Joe",
+        "playlistId": "PL5nkGq-p98zMKcBe0GgCur4A5jLS-L-T_",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rcuc0SKBhSU"
+        },
+        "videoOwnerChannelTitle": "10 Minutes with Coach Joe",
+        "videoOwnerChannelId": "UCQT3GwtAop6cnvTTTsKUUoQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pB1zTEpbku9s8-rGrcFjrzT1QRg",
+      "id": "UEw1bmtHcS1wOTh6TUtjQmUwR2dDdXI0QTVqTFMtTC1UXy5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2023-01-19T21:48:30Z",
+        "channelId": "UCQT3GwtAop6cnvTTTsKUUoQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "10 Minutes with Coach Joe",
+        "playlistId": "PL5nkGq-p98zMKcBe0GgCur4A5jLS-L-T_",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B2WMlSM2cUg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PrDBMv-GJk0bPG2pJ0GRcUWGYA4",
+      "id": "UEw1bmtHcS1wOTh6TUtjQmUwR2dDdXI0QTVqTFMtTC1UXy43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2022-12-26T23:03:54Z",
+        "channelId": "UCQT3GwtAop6cnvTTTsKUUoQ",
+        "title": "Rule #14 - Methods should have few parameters",
+        "description": "RULE DESCRIPTION: \n\nZero is the preferred number of parameters.  Three or more is an indicator of poorly designed code.  Remember, the fewer the number of parameters, the better.\n\nTIMESTAMP:\n\n0:15 Intro\n1:01 How to fix\n2:07 Abstraction\n2:36 Constructor\n3:03 I challenge you\n\nCOACH JOE MISSION:\n\nThis video series will cover all Coach Joe rules.  Lesson tutorials are broken down into visual descriptions along with good and bad code examples.  Following these preferred standard coding rules will help write cleaner more maintainable code, test driven development (TDD) and unit testing.  Many rules apply to other languages like C#, Python, Typescript and Kotlin.  Below are a list of Coach Joe rules included in this series that will help with your learning and education process.\n\nCOACH JOE RULES:\n\nRule #1: Utilize the 5 SOLID principles\nRule #2: Utilize the 3 laws of TDD\nRule #3: Use meaningful class names\nRule #4: Use meaningful method names\nRule #5: Use meaningful variable names\nRule #6: A class should do only one thing\nRule #7: A method should do only one thing\nRule #8: Unit tests should always make at least 1 assert\nRule #10: No hard coded values\nRule #11: No duplicate code\nRule #12: Avoid unnecessary comments\nRule #13: The class should contain a small number of methods and lines of code\nRule #14: Methods should have few if any parameters\nRule #15: Avoid long if statements\nRule #16: Avoid the switch statement\nRule #19: Run all unit tests frequently\nRule #20: Objects must be easy to create\nRule #21: No type or scope definitions in variable names\nRule #22: Methods should have very few lines of code\nRule #23: Methods should never return null\nRule #24: Shared code ownership is the goal\nRule #25: Avoid nested if/else blocks\nRule #26: Code should be formatted and readable\nRule #29: Unit tests should never be marked with an Ignore attribute\nRule #30: Do not test several method calls in a single unit test\nRule #31: Avoid generating technical debt\nRule #32: Use the proper for loop\nRule #34: Understand the difference between an object and a data structure\nRule #35: Try for 100% code coverage\nRule #37: Boolean parameters should not be passed to methods\nRule #39: Bad code is difficult to test and maintain\nRule #40: Test code you write for happy and unhappy paths\nRule #41: Errors should be caught, not hidden\nRule #42: Do not test infrastructure, frameworks or libraries\nRule #43: Null parameters should not be passed to methods\n\nAmazing pictures and artwork provided by:\nhttps://unsplash.com/@orwhat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.freepik.com/free-photo/you-stink-come-closer-portrait-disgusted-disliking-handsome-guy-with-afro-hairstyle-tilting-backwards-pulling-palm-stop-no-gesture_10177036.htm\nhttps://www.freepik.com/free-vector/blank-empty-speech-bubbles-vector-illustration_10603801.htm\nhttps://www.pexels.com/photo/a-woman-in-red-long-sleeve-shirt-8638227/\nhttps://www.pexels.com/video/portrait-of-pensive-woman-7580123/\nhttps://www.freepik.com/free-vector/number_1347935.htm\nhttps://www.freepik.com/free-vector/flat-design-polygonal-background_13294764.htm\nhttps://unsplash.com/@awcreativeut?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@isaacjiverson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@neonbrand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/man-in-blue-long-sleeve-shirt-and-black-pants-standing-beside-white-wall-7877011/\nhttps://unsplash.com/@jjying?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/a-woman-doing-arms-crossed-8727483/\nhttps://unsplash.com/@bastien_plu_photographe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.freepik.com/free-vector/modern-blue-low-poly-triangle-shapes-background_27578036.htm",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/61l3CYOKgCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/61l3CYOKgCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/61l3CYOKgCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/61l3CYOKgCY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "10 Minutes with Coach Joe",
+        "playlistId": "PL5nkGq-p98zMKcBe0GgCur4A5jLS-L-T_",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "61l3CYOKgCY"
+        },
+        "videoOwnerChannelTitle": "10 Minutes with Coach Joe",
+        "videoOwnerChannelId": "UCQT3GwtAop6cnvTTTsKUUoQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R8v3zLE7l9mrYbQM652vYO0oadM",
+      "id": "UEw1bmtHcS1wOTh6TUtjQmUwR2dDdXI0QTVqTFMtTC1UXy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2022-12-07T13:11:22Z",
+        "channelId": "UCQT3GwtAop6cnvTTTsKUUoQ",
+        "title": "Rule #15 - Avoid long if statements",
+        "description": "RULE DESCRIPTION: \n\nA long and complex IF statement would read easier as a well named method call.   Ex.  if (isRightTriangle()) is better than if(( myTriangle.angleA == 90) || ( myTriangle.angleB == 90) || ( myTriangle.angleC == 90))\n\nTIMESTAMP:\n\n0:14 Intro\n0:32 The If statement\n0:53 Example If’s (easy to complex)\n2:18 Why are long if statements bad?\n2:46 How to fix\n3:39 I challenge you\n\nCOACH JOE MISSION:\n\nThis video series will cover all Coach Joe rules.  Lesson tutorials are broken down into visual descriptions along with good and bad code examples.  Following these preferred standard coding rules will help write cleaner more maintainable code, test driven development (TDD) and unit testing.  Many rules apply to other languages like C#, Python, Typescript and Kotlin.  Below are a list of Coach Joe rules included in this series that will help with your learning and education process.\n\nCOACH JOE RULES:\n\nRule #1: Utilize the 5 SOLID principles\nRule #2: Utilize the 3 laws of TDD\nRule #3: Use meaningful class names\nRule #4: Use meaningful method names\nRule #5: Use meaningful variable names\nRule #6: A class should do only one thing\nRule #7: A method should do only one thing\nRule #8: Unit tests should always make at least 1 assert\nRule #10: No hard coded values\nRule #11: No duplicate code\nRule #12: Avoid unnecessary comments\nRule #13: The class should contain a small number of methods and lines of code\nRule #14: Methods should have few if any parameters\nRule #15: Avoid long if statements\nRule #16: Avoid the switch statement\nRule #19: Run all unit tests frequently\nRule #20: Objects must be easy to create\nRule #21: No type or scope definitions in variable names\nRule #22: Methods should have very few lines of code\nRule #23: Methods should never return null\nRule #24: Shared code ownership is the goal\nRule #25: Avoid nested if/else blocks\nRule #26: Code should be formatted and readable\nRule #29: Unit tests should never be marked with an Ignore attribute\nRule #30: Do not test several method calls in a single unit test\nRule #31: Avoid generating technical debt\nRule #32: Use the proper for loop\nRule #34: Understand the difference between an object and a data structure\nRule #35: Try for 100% code coverage\nRule #37: Boolean parameters should not be passed to methods\nRule #39: Bad code is difficult to test and maintain\nRule #40: Test code you write for happy and unhappy paths\nRule #41: Errors should be caught, not hidden\nRule #42: Do not test infrastructure, frameworks or libraries\nRule #43: Null parameters should not be passed to methods\n\nAmazing pictures and artwork provided by:\nhttps://www.pexels.com/photo/photo-of-lightning-2409111\nhttps://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.freepik.com/free-vector/trophie_2900469.htm\nhttps://www.pexels.com/photo/photo-of-orange-dump-truck-toy-1186477\nhttps://unsplash.com/@paige_cody?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.freepik.com/free-vector/personal-goals-concept-illustration_13135271.htm\nhttps://www.freepik.com/free-vector/businessman-holding-thumb-finger-stopwatch_1311422.htm\nhttps://unsplash.com/@matcfelipe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/portrait-photo-of-smiling-man-with-his-arms-crossed-standing-in-front-of-white-wall-2379004\nhttps://www.pexels.com/photo/man-in-black-crew-neck-shirt-thinking-with-his-hand-on-his-chin-8638760\nhttps://www.pexels.com/photo/adolescent-adult-attractive-background-2600243\nhttps://unsplash.com/@yogendras31?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.freepik.com/free-vector/businessman-giving-presentation-man-presenting-project-with-laptop-office-worker-business-mentor-coach-seminar_25273280.htm\nhttps://www.pexels.com/photo/a-construction-worker-looking-at-a-wall-8961700\nhttps://www.pexels.com/photo/woman-wearing-pink-top-1036620\nhttps://www.pexels.com/photo/thoughtful-male-manager-working-on-laptop-in-modern-workspace-3931391\nhttps://www.pexels.com/photo/a-woman-in-red-long-sleeve-shirt-8638232\nhttps://www.pexels.com/photo/advertising-attractive-background-bag-2739946\nhttps://unsplash.com/@philipp9894?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@bastien_plu_photographe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/outdoorchallenge-blue-skies-blue-sky-canada-907283",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DPZOcgmmyPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DPZOcgmmyPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DPZOcgmmyPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DPZOcgmmyPE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "10 Minutes with Coach Joe",
+        "playlistId": "PL5nkGq-p98zMKcBe0GgCur4A5jLS-L-T_",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DPZOcgmmyPE"
+        },
+        "videoOwnerChannelTitle": "10 Minutes with Coach Joe",
+        "videoOwnerChannelId": "UCQT3GwtAop6cnvTTTsKUUoQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CF2kDInL8SZbGHgzbCJLZjWfh9M",
+      "id": "UEw1bmtHcS1wOTh6TUtjQmUwR2dDdXI0QTVqTFMtTC1UXy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2022-12-01T00:27:24Z",
+        "channelId": "UCQT3GwtAop6cnvTTTsKUUoQ",
+        "title": "Rule #16 - Avoid the switch statement",
+        "description": "RULE DESCRIPTION: \n\nThe use of a switch statement should be a red flag indicator of poorly designed code.  Using a switch statement in a small project that will have a small number of cases that never change is acceptable.  In bigger projects that may requires the flexibility of additional cases in the future, consider using a command design pattern with a map or enum type with constant-specific method implementation.\n\nTIMESTAMP:\n\n0:14 Intro\n0:38 Code smell\n1:06 Map\n1:28 Polymorphism\n1:51 Many options\n2:14 I challenge you\n\nCOACH JOE MISSION:\n\nThis video series will cover all Coach Joe rules.  Lesson tutorials are broken down into visual descriptions along with good and bad code examples.  Following these preferred standard coding rules will help write cleaner more maintainable code, test driven development (TDD) and unit testing.  Many rules apply to other languages like C#, Python, Typescript and Kotlin.  Below are a list of Coach Joe rules included in this series that will help with your learning and education process.\n\nCOACH JOE RULES:\n\nRule #1: Utilize the 5 SOLID principles\nRule #2: Utilize the 3 laws of TDD\nRule #3: Use meaningful class names\nRule #4: Use meaningful method names\nRule #5: Use meaningful variable names\nRule #6: A class should do only one thing\nRule #7: A method should do only one thing\nRule #8: Unit tests should always make at least 1 assert\nRule #10: No hard coded values\nRule #11: No duplicate code\nRule #12: Avoid unnecessary comments\nRule #13: The class should contain a small number of methods and lines of code\nRule #14: Methods should have few if any parameters\nRule #15: Avoid long if statements\nRule #16: Avoid the switch statement\nRule #19: Run all unit tests frequently\nRule #20: Objects must be easy to create\nRule #21: No type or scope definition in variable names\nRule #22: Methods should have very few lines of code\nRule #23: Methods should never return null\nRule #24: Shared code ownership is the goal\nRule #25: Avoid nested if/else blocks\nRule #26: Code should be formatted and readable\nRule #29: Unit tests should never be marked with an Ignore attribute\nRule #30: Do not test several method calls in a single unit test\nRule #31: Avoid generating technical debt\nRule #32: Use the proper for loop\nRule #34: Understand the difference between an object and a data structure\nRule #35: Try for 100% code coverage\nRule #37: Boolean parameters should not be passed to methods\nRule #39: Bad code is difficult to test and maintain\nRule #40: Test code you write for happy and unhappy paths\nRule #41: Errors should be caught, not hidden\nRule #42: Do not test infrastructure, frameworks or libraries\nRule #43: Null parameters should not be passed to methods\n\nAmazing pictures and artwork provided by:\nhttps://unsplash.com/photos/YRMWVcdyhmI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink\nhttps://www.freepik.com/free-vector/businessman-giving-presentation-man-presenting-project-with-laptop-office-worker-business-mentor-coach-seminar_25273280.htm\nhttps://unsplash.com/photos/NBvsCoTCqFg?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink\nhttps://www.pexels.com/photo/photo-of-coworkers-throwing-pieces-of-paper-7710118/\nhttps://unsplash.com/photos/kostsFVW59s?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink\nhttps://www.freepik.com/photos/curly\nhttps://unsplash.com/photos/TMU6dl6La9k?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink\nhttps://unsplash.com/photos/ymf4_9Y9S_A?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink\nhttps://unsplash.com/photos/vXduK0SeYjU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink\nhttps://unsplash.com/photos/r2jpr8MDw0I?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink\nhttps://unsplash.com/photos/N4QTBfNQ8Nk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink\nhttps://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vQSg1jMCMxg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vQSg1jMCMxg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vQSg1jMCMxg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vQSg1jMCMxg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "10 Minutes with Coach Joe",
+        "playlistId": "PL5nkGq-p98zMKcBe0GgCur4A5jLS-L-T_",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vQSg1jMCMxg"
+        },
+        "videoOwnerChannelTitle": "10 Minutes with Coach Joe",
+        "videoOwnerChannelId": "UCQT3GwtAop6cnvTTTsKUUoQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PdbHZRJQj3PwL6_bMvBGvUGrRcE",
+      "id": "UEw1bmtHcS1wOTh6TUtjQmUwR2dDdXI0QTVqTFMtTC1UXy42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2023-01-19T21:52:25Z",
+        "channelId": "UCQT3GwtAop6cnvTTTsKUUoQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "10 Minutes with Coach Joe",
+        "playlistId": "PL5nkGq-p98zMKcBe0GgCur4A5jLS-L-T_",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yDDwWNOLGsg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SAHGTxxqiJcC6mL_FYu6m_A6t5U",
+      "id": "UEw1bmtHcS1wOTh6TUtjQmUwR2dDdXI0QTVqTFMtTC1UXy5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2022-12-19T23:31:09Z",
+        "channelId": "UCQT3GwtAop6cnvTTTsKUUoQ",
+        "title": "Rule #23 - Methods should never return null",
+        "description": "RULE DESCRIPTION: \n\nReturn an empty object instead of null.\n\nTIMESTAMP:\n\n0:14 Intro\n0:35 Problems when null is returned\n1:14 Solution options for strings, lists, maps\n1:48 Use defined object\n2:13 Solution options for objects\n3:00 3rd party code returns null\n3:35 I challenge you to avoid returning null\n\nCOACH JOE MISSION:\n\nThis video series will cover all Coach Joe rules.  Lesson tutorials are broken down into visual descriptions along with good and bad code examples.  Following these preferred standard coding rules will help write cleaner more maintainable code, test driven development (TDD) and unit testing.  Many rules apply to other languages like C#, Python, Typescript and Kotlin.  Below are a list of Coach Joe rules included in this series that will help with your learning and education process.\n\nCOACH JOE RULES:\n\nRule #1: Utilize the 5 SOLID principles\nRule #2: Utilize the 3 laws of TDD\nRule #3: Use meaningful class names\nRule #4: Use meaningful method names\nRule #5: Use meaningful variable names\nRule #6: A class should do only one thing\nRule #7: A method should do only one thing\nRule #8: Unit tests should always make at least 1 assert\nRule #10: No hard coded values\nRule #11: No duplicate code\nRule #12: Avoid unnecessary comments\nRule #13: The class should contain a small number of methods and lines of code\nRule #14: Methods should have few if any parameters\nRule #15: Avoid long if statements\nRule #16: Avoid the switch statement\nRule #19: Run all unit tests frequently\nRule #20: Objects must be easy to create\nRule #21: No type or scope definitions in variable names\nRule #22: Methods should have very few lines of code\nRule #23: Methods should never return null\nRule #24: Shared code ownership is the goal\nRule #25: Avoid nested if/else blocks\nRule #26: Code should be formatted and readable\nRule #29: Unit tests should never be marked with an Ignore attribute\nRule #30: Do not test several method calls in a single unit test\nRule #31: Avoid generating technical debt\nRule #32: Use the proper for loop\nRule #34: Understand the difference between an object and a data structure\nRule #35: Try for 100% code coverage\nRule #37: Boolean parameters should not be passed to methods\nRule #39: Bad code is difficult to test and maintain\nRule #40: Test code you write for happy and unhappy paths\nRule #41: Errors should be caught, not hidden\nRule #42: Do not test infrastructure, frameworks or libraries\nRule #43: Null parameters should not be passed to methods\n\nAmazing pictures and artwork provided by:\nhttps://www.pexels.com/photo/water-drops-on-clear-glass-3169299/\nhttps://www.freepik.com/free-vector/pixel-mouse-cursors-pointer-arrow-wait_11053931.htm\nhttps://www.freepik.com/free-vector/group-people-illustration-pack_6969075.htm\nhttps://www.freepik.com/free-vector/people-with-terrified-surprised-face-expression_30534311.htm\nhttps://www.freepik.com/free-vector/round-black-bomb-realistic-style_4904116.htm\nhttps://www.freepik.com/free-vector/blank-empty-speech-bubbles-vector-illustration_10603801.htm\nhttps://www.pexels.com/photo/adolescent-adult-attractive-background-2600243/\nhttps://www.freepik.com/free-vector/comic-speech-bubble-with-boom-text_13578063.htm\nhttps://www.freepik.com/free-vector/realistic-chalk-blackboard_19380853.htm\nhttps://www.pexels.com/photo/a-happy-young-woman-tossing-an-apple-8963416/\nhttps://unsplash.com/es/@jamie_davies?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/es/@beckerworks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6ZspnrJIla0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6ZspnrJIla0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6ZspnrJIla0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6ZspnrJIla0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "10 Minutes with Coach Joe",
+        "playlistId": "PL5nkGq-p98zMKcBe0GgCur4A5jLS-L-T_",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6ZspnrJIla0"
+        },
+        "videoOwnerChannelTitle": "10 Minutes with Coach Joe",
+        "videoOwnerChannelId": "UCQT3GwtAop6cnvTTTsKUUoQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TQmnKMkM1qioGoBGIq0FnnkzbYw",
+      "id": "UEw1bmtHcS1wOTh6TUtjQmUwR2dDdXI0QTVqTFMtTC1UXy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2022-12-07T16:56:22Z",
+        "channelId": "UCQT3GwtAop6cnvTTTsKUUoQ",
+        "title": "Rule #24 - Shared code ownership is the goal",
+        "description": "RULE DESCRIPTION: \n\nSilos of code knowledge are bad.  Get to the point where you can change someone's code and they can change your code.  It's our code.\n\nTIMESTAMP:\n\n0:15 Intro\n0:35 Individual code ownership\n0:49 Pros\n0:59 Cons\n1:52 Summary\n2:03 Small team code ownership\n2:12 Pros\n2:36 Cons\n3:42 Summary\n3:57 Organization code ownership\n4:12 Pros\n4:30 Cons\n5:41 Summary\n\n\n\nAmazing pictures and artwork provided by:\nhttps://unsplash.com/@orwhat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.freepik.com/free-vector/realistic-chalk-blackboard_19380853.htm\nhttps://unsplash.com/@cutinamoment?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@majesticlukas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/woman-stopping-men-not-wearing-proper-face-mask-3985151\nhttps://www.freepik.com/free-vector/human-brain-two-different-colored-symbolic-left-right-cerebral-hemispheres-model-image-icon-abst_4188723.htm\nhttps://unsplash.com/es/@intricateexplorer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@noa69?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/man-holding-black-backpack-1223649\nhttps://www.stockvault.net/photo/182545/eureka-moment-woman-having-an-idea\nhttps://unsplash.com/@michalmatlon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/female-office-worker-relaxing-with-feet-on-table-3790848\nhttps://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.freepik.com/free-vector/minimal-white-gray-background-with-wavy-lines_8038875.htm\nhttps://www.pexels.com/photo/man-wearing-brown-suit-jacket-3184339\nhttps://www.freepik.com/free-vector/people-jogging-park-group-runners_27421490.htm\nhttps://www.pexels.com/photo/young-positive-lady-showing-photos-on-smartphone-to-senior-man-while-sitting-at-laptop-3823542\nhttps://www.pexels.com/photo/woman-wearing-red-and-black-checkered-blouse-using-macbook-1181472\nhttps://www.pexels.com/photo/person-pointing-paper-line-graph-590041\nhttps://unsplash.com/@hbunny_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/pensive-woman-leaning-on-a-white-linen-8062928\nhttps://www.pexels.com/photo/man-standing-beside-people-sitting-beside-table-with-laptops-3184395\nhttps://www.pexels.com/photo/a-woman-standing-in-front-of-the-group-7640822\nhttps://unsplash.com/@brookecagle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@timmossholder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/person-rock-climbing-3077882\nhttps://unsplash.com/@tutrinh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@cikstefan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/a-doctor-holding-a-clipboard-5215024\nhttps://www.pexels.com/photo/woman-sitting-in-front-of-macbook-inside-room-7355\nhttps://unsplash.com/@frantic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/people-looking-at-laptop-computer-1595391\nhttps://unsplash.com/@diegojimenez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/business-people-collaborating-in-a-meeting-6829538\nhttps://unsplash.com/@saksham?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/photo-of-kid-sitting-on-a-chair-2791654\nhttps://www.pexels.com/photo/concentrated-young-multiethnic-friends-with-map-in-railway-station-6140458\nhttps://www.pexels.com/photo/laughing-male-constructor-showing-thumb-up-at-working-desk-3760613\nhttps://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@introspectivedsgn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.freepik.com/free-vector/woman-sleep-workplace-top-view-tired-girl-lying-messy-office-desk-with-rubbish_9896100.htm\nhttps://www.freepik.com/free-vector/10-sleepy-work_27274866.htm\nhttps://www.pexels.com/photo/man-and-women-working-in-office-together-6632514\nhttps://unsplash.com/@mroz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@abdulbosit_aim?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.pexels.com/photo/men-putting-a-thumbs-up-5684562\nhttps://unsplash.com/@jipy32?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R5l8I_Mr2mc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R5l8I_Mr2mc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R5l8I_Mr2mc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R5l8I_Mr2mc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "10 Minutes with Coach Joe",
+        "playlistId": "PL5nkGq-p98zMKcBe0GgCur4A5jLS-L-T_",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "R5l8I_Mr2mc"
+        },
+        "videoOwnerChannelTitle": "10 Minutes with Coach Joe",
+        "videoOwnerChannelId": "UCQT3GwtAop6cnvTTTsKUUoQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sto-az-WXfQ0e3YqBCxWzCLwj14",
+      "id": "UEw1bmtHcS1wOTh6TUtjQmUwR2dDdXI0QTVqTFMtTC1UXy45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2023-01-19T21:53:57Z",
+        "channelId": "UCQT3GwtAop6cnvTTTsKUUoQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "10 Minutes with Coach Joe",
+        "playlistId": "PL5nkGq-p98zMKcBe0GgCur4A5jLS-L-T_",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wIMv2S1dZaw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rcOiYAMCEOvXc8WjfcF09LxIZHU",
+      "id": "UEw1bmtHcS1wOTh6TUtjQmUwR2dDdXI0QTVqTFMtTC1UXy5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2023-01-30T13:32:52Z",
+        "channelId": "UCQT3GwtAop6cnvTTTsKUUoQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "10 Minutes with Coach Joe",
+        "playlistId": "PL5nkGq-p98zMKcBe0GgCur4A5jLS-L-T_",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8Yu080Gp2lE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wXORK3US_2qf4hVGZDkpGzJceRI",
+      "id": "UEw1bmtHcS1wOTh6TUtjQmUwR2dDdXI0QTVqTFMtTC1UXy4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2022-12-27T00:42:09Z",
+        "channelId": "UCQT3GwtAop6cnvTTTsKUUoQ",
+        "title": "Rule #37 - Boolean parameters should not be passed to methods",
+        "description": "RULE DESCRIPTION: \n\nThis is an indicator of poorly designed code.\n\nTIMESTAMP:\n\n0:15 Intro\n0:22 Code smell\n1:06 Solutions\n1:43 Object parameters\n1:56 Is it allowed?\n2:57 I challenge you to avoid passing boolean parameters\n\nCOACH JOE MISSION:\n\nThis video series will cover all Coach Joe rules.  Lesson tutorials are broken down into visual descriptions along with good and bad code examples.  Following these preferred standard coding rules will help write cleaner more maintainable code, test driven development (TDD) and unit testing.  Many rules apply to other languages like C#, Python, Typescript and Kotlin.  Below are a list of Coach Joe rules included in this series that will help with your learning and education process.\n\nCOACH JOE RULES:\n\nRule #1: Utilize the 5 SOLID principles\nRule #2: Utilize the 3 laws of TDD\nRule #3: Use meaningful class names\nRule #4: Use meaningful method names\nRule #5: Use meaningful variable names\nRule #6: A class should do only one thing\nRule #7: A method should do only one thing\nRule #8: Unit tests should always make at least 1 assert\nRule #10: No hard coded values\nRule #11: No duplicate code\nRule #12: Avoid unnecessary comments\nRule #13: The class should contain a small number of methods and lines of code\nRule #14: Methods should have few if any parameters\nRule #15: Avoid long if statements\nRule #16: Avoid the switch statement\nRule #19: Run all unit tests frequently\nRule #20: Objects must be easy to create\nRule #21: No type or scope definitions in variable names\nRule #22: Methods should have very few lines of code\nRule #23: Methods should never return null\nRule #24: Shared code ownership is the goal\nRule #25: Avoid nested if/else blocks\nRule #26: Code should be formatted and readable\nRule #29: Unit tests should never be marked with an Ignore attribute\nRule #30: Do not test several method calls in a single unit test\nRule #31: Avoid generating technical debt\nRule #32: Use the proper for loop\nRule #34: Understand the difference between an object and a data structure\nRule #35: Try for 100% code coverage\nRule #37: Boolean parameters should not be passed to methods\nRule #39: Bad code is difficult to test and maintain\nRule #40: Test code you write for happy and unhappy paths\nRule #41: Errors should be caught, not hidden\nRule #42: Do not test infrastructure, frameworks or libraries\nRule #43: Null parameters should not be passed to methods\n\nAmazing pictures and artwork provided by:\nhttps://www.pexels.com/photo/modern-art-1910225/\nhttps://www.pexels.com/photo/woman-in-yellow-long-sleeve-is-holding-binocular-3779746/\nhttps://www.freepik.com/free-vector/blank-empty-speech-bubbles-vector-illustration_10603801.htm\nhttps://unsplash.com/@lucassankey?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://www.freepik.com/free-vector/number_1347935.htm\nhttps://www.pexels.com/photo/photo-of-woman-wearing-blue-shirt-3933382/\nhttps://unsplash.com/@jasongoodman_youxventures?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/es/@dargonesti?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@bastien_plu_photographe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\nhttps://unsplash.com/@jipy32?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/91RBUmbNL1U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/91RBUmbNL1U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/91RBUmbNL1U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/91RBUmbNL1U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "10 Minutes with Coach Joe",
+        "playlistId": "PL5nkGq-p98zMKcBe0GgCur4A5jLS-L-T_",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "91RBUmbNL1U"
+        },
+        "videoOwnerChannelTitle": "10 Minutes with Coach Joe",
+        "videoOwnerChannelId": "UCQT3GwtAop6cnvTTTsKUUoQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "B_CB-dt-PxN3SovQuzpUl9Hd850",
+      "id": "UEw1bmtHcS1wOTh6TUtjQmUwR2dDdXI0QTVqTFMtTC1UXy5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2022-12-27T00:49:35Z",
+        "channelId": "UCQT3GwtAop6cnvTTTsKUUoQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "10 Minutes with Coach Joe",
+        "playlistId": "PL5nkGq-p98zMKcBe0GgCur4A5jLS-L-T_",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q-YLOh_LwnI"
+        }
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 19,
+    "resultsPerPage": 49
+  }
+}
